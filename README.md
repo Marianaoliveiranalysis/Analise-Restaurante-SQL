@@ -59,3 +59,18 @@ Foram criadas:
 - **Views** para armazenar consultas recorrentes
 - **Funções SQL** para automatizar análises e facilitar a extração de dados estratégicos
 
+
+## 🎯 Objetivo Final
+
+Este projeto tem como objetivo não apenas demonstrar o uso prático da linguagem SQL na análise de dados voltada para o setor de restaurantes, mas também aplicar **boas práticas de desenvolvimento**, com foco em:
+
+- 🔧 **Manutenção do código**  
+  Estruturação clara e organizada das consultas, facilitando futuras alterações, correções e expansões no banco de dados.
+
+- ⚡ **Performance do código**  
+  Uso de filtros eficientes, junções otimizadas e funções adequadas para garantir rapidez nas consultas e bom aproveitamento dos recursos do banco.
+
+- 👓 **Legibilidade do código**  
+  Escrita limpa, com indentação padronizada, nomenclatura intuitiva para tabelas e colunas, além de comentários explicativos que facilitam o entendimento.
+
+
